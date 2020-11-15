@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="primaryTextColoredColor">@color/primaryLightColor</color>
+    <color name="secondaryTextColoredColor">@color/primaryColor</color>
+
+    <!-- Matching colored background -->
+    <color name="coloredBackgroundColor">@color/primaryDarkColor</color>
+
+    <!-- Used for Splash Screen background, and elsewhere as needed -->
+    <color name="defaultBackgroundColor">@android:color/darker_gray</color>
+    </resources>
